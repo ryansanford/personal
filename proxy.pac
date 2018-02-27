@@ -12,7 +12,12 @@ if (
   dnsDomainIs(host, "brainpop.com") ||
   dnsDomainIs(host, "grammarly.com") ||
   dnsDomainIs(host, "khanacademy.org") ||
-  dnsDomainIs(host, "adobe.com")
+  dnsDomainIs(host, "adobe.com") ||
+  dnsDomainIs(host, "jenny-add-1.com") ||
+  dnsDomainIs(host, "jenny-add-2.com") ||
+  dnsDomainIs(host, "jenny-add-3.com") ||
+  dnsDomainIs(host, "jenny-add-4.com") ||
+  dnsDomainIs(host, "jenny-add-5.com")
 
 )
   return "DIRECT";
