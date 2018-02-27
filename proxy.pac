@@ -3,6 +3,9 @@ function FindProxyForURL(url, host) {
 // Bypass the proxy for approved sites
 if (
   dnsDomainIs(host, "google.com") || 
+  dnsDomainIs(host, "google-analytics.com") || 
+  dnsDomainIs(host, "sail-horizon.com") || 
+  dnsDomainIs(host, "amazonaws.com") || 
   dnsDomainIs(host, "microsoft.com") || 
   dnsDomainIs(host, "github.io") || 
   dnsDomainIs(host, "github.com") ||
@@ -12,6 +15,7 @@ if (
   dnsDomainIs(host, "brainpop.com") ||
   dnsDomainIs(host, "grammarly.com") ||
   dnsDomainIs(host, "khanacademy.org") ||
+  dnsDomainIs(host, "kastatic.org") ||
   dnsDomainIs(host, "adobe.com") ||
   dnsDomainIs(host, "gstatic.com") ||
   dnsDomainIs(host, "typekit.net") ||
