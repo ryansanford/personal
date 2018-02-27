@@ -14,6 +14,7 @@ if (
   dnsDomainIs(host, "khanacademy.org") ||
   dnsDomainIs(host, "adobe.com") ||
   dnsDomainIs(host, "gstatic.com") ||
+  dnsDomainIs(host, "typekit.net") ||
   dnsDomainIs(host, "jenny-add-1.com") ||
   dnsDomainIs(host, "jenny-add-2.com") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
