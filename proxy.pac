@@ -17,6 +17,7 @@ if (
   dnsDomainIs(host, "typekit.net") ||
   dnsDomainIs(host, "entrust.net") ||
   dnsDomainIs(host, "entrustdatacard.com") ||
+  dnsDomainIs(host, "desmos.com") ||
   dnsDomainIs(host, "jenny-add-1.com") ||
   dnsDomainIs(host, "jenny-add-2.com") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
