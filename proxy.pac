@@ -6,6 +6,9 @@ if (
   dnsDomainIs(host, "google-analytics.com") || 
   dnsDomainIs(host, "sail-horizon.com") || 
   dnsDomainIs(host, "scholastic.com") || 
+  dnsDomainIs(host, "discoveryeducation.com") || 
+  dnsDomainIs(host, "mediachalk.com") || 
+  dnsDomainIs(host, "pearsonkt.com") || 
   dnsDomainIs(host, "amazonaws.com") || 
   dnsDomainIs(host, "microsoft.com") || 
   dnsDomainIs(host, "github.io") || 
