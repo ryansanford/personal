@@ -5,6 +5,7 @@ if (
   dnsDomainIs(host, "google.com") || 
   dnsDomainIs(host, "google-analytics.com") || 
   dnsDomainIs(host, "googlealertmanager.com") || 
+  dnsDomainIs(host, "explorelearning.com") || 
   dnsDomainIs(host, "sail-horizon.com") || 
   dnsDomainIs(host, "scholastic.com") || 
   dnsDomainIs(host, "discoveryeducation.com") || 
