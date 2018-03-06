@@ -30,7 +30,7 @@ if (
   dnsDomainIs(host, "desmos.com") ||
   dnsDomainIs(host, "www.historicfortsnelling.org") ||
   dnsDomainIs(host, "www.mnhs.org") ||
-  dnsDomainIs(host, "jenny-add-3.com") ||
+  dnsDomainIs(host, "www.americaslibrary.gov") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
 
