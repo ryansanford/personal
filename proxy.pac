@@ -28,8 +28,8 @@ if (
   dnsDomainIs(host, "entrust.net") ||
   dnsDomainIs(host, "entrustdatacard.com") ||
   dnsDomainIs(host, "desmos.com") ||
-  dnsDomainIs(host, "jenny-add-1.com") ||
-  dnsDomainIs(host, "jenny-add-2.com") ||
+  dnsDomainIs(host, "www.historicfortsnelling.org") ||
+  dnsDomainIs(host, "www.mnhs.org") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
