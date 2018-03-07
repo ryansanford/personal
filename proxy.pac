@@ -33,6 +33,7 @@ if (
   dnsDomainIs(host, "www.americaslibrary.gov") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
+  dnsDomainIs(host, "kahoot.it.com")
 
 )
   return "DIRECT";
