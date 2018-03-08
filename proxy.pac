@@ -28,12 +28,11 @@ if (
   dnsDomainIs(host, "entrust.net") ||
   dnsDomainIs(host, "entrustdatacard.com") ||
   dnsDomainIs(host, "desmos.com") ||
-  dnsDomainIs(host, "www.historicfortsnelling.org") ||
-  dnsDomainIs(host, "www.mnhs.org") ||
-  dnsDomainIs(host, "www.americaslibrary.gov") ||
-  dnsDomainIs(host, "www.mathxlforschool.com") ||
+  dnsDomainIs(host, "historicfortsnelling.org") ||
+  dnsDomainIs(host, "mnhs.org") ||
+  dnsDomainIs(host, "americaslibrary.gov") ||
   dnsDomainIs(host, "kahoot.it.com") ||
-  dnsDomainIs(host, "jenny-add-1.com") ||
+  dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "jenny-add-2.com") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
