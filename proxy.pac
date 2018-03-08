@@ -31,9 +31,13 @@ if (
   dnsDomainIs(host, "www.historicfortsnelling.org") ||
   dnsDomainIs(host, "www.mnhs.org") ||
   dnsDomainIs(host, "www.americaslibrary.gov") ||
+  dnsDomainIs(host, "www.mathxlforschool.com") ||
+  dnsDomainIs(host, "kahoot.it.com") ||
+  dnsDomainIs(host, "jenny-add-1.com") ||
+  dnsDomainIs(host, "jenny-add-2.com") ||
+  dnsDomainIs(host, "jenny-add-3.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
-  dnsDomainIs(host, "kahoot.it.com")
 
 )
   return "DIRECT";
