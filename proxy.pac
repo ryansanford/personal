@@ -39,6 +39,10 @@ if (
   dnsDomainIs(host, "googletagmanager.com") ||
   dnsDomainIs(host, "googletagservices.com") ||
   dnsDomainIs(host, "wordcentral.com") ||
+  dnsDomainIs(host, "legendsofamerica.com") ||
+  dnsDomainIs(host, "mnopedia.org") ||
+  dnsDomainIs(host, "jenny-add-1.com") ||
+  dnsDomainIs(host, "jenny-add-2.com") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
