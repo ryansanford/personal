@@ -38,7 +38,7 @@ if (
   dnsDomainIs(host, "vimeocdn.com") ||
   dnsDomainIs(host, "googletagmanager.com") ||
   dnsDomainIs(host, "googletagservices.com") ||
-  dnsDomainIs(host, "jenny-add-2.com") ||
+  dnsDomainIs(host, "wordcentral.com") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
