@@ -42,8 +42,8 @@ if (
   dnsDomainIs(host, "legendsofamerica.com") ||
   dnsDomainIs(host, "mnopedia.org") ||
   dnsDomainIs(host, "greatachievements.org") ||
-  dnsDomainIs(host, "jenny-add-2.com") ||
-  dnsDomainIs(host, "jenny-add-3.com") ||
+  dnsDomainIs(host, "explainthatstuff.com") ||
+  dnsDomainIs(host, "sabrinasterling.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
   dnsDomainIs(host, "jenny-add-5.com") ||
   dnsDomainIs(host, "jenny-add-6.com") ||
