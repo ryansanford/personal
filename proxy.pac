@@ -35,7 +35,7 @@ if (
   dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "dailywritingtips.com") ||
   dnsDomainIs(host, "vimeo.com") ||
-  dnsDomainIs(host, "jenny-add-4.com") ||
+  dnsDomainIs(host, "vimeocdn.com") ||
   dnsDomainIs(host, "jenny-add-5.com")
 
 )
