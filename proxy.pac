@@ -45,7 +45,11 @@ if (
   dnsDomainIs(host, "jenny-add-2.com") ||
   dnsDomainIs(host, "jenny-add-3.com") ||
   dnsDomainIs(host, "jenny-add-4.com") ||
-  dnsDomainIs(host, "jenny-add-5.com")
+  dnsDomainIs(host, "jenny-add-5.com") ||
+  dnsDomainIs(host, "jenny-add-6.com") ||
+  dnsDomainIs(host, "jenny-add-7.com") ||
+  dnsDomainIs(host, "jenny-add-8.com") ||
+  dnsDomainIs(host, "jenny-add-9.com")
 
 )
   return "DIRECT";
