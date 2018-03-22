@@ -31,7 +31,7 @@ if (
   dnsDomainIs(host, "historicfortsnelling.org") ||
   dnsDomainIs(host, "mnhs.org") ||
   dnsDomainIs(host, "americaslibrary.gov") ||
-  dnsDomainIs(host, "kahoot.it.com") ||
+  dnsDomainIs(host, "kahoot.it") ||
   dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "dailywritingtips.com") ||
   dnsDomainIs(host, "vimeo.com") ||
