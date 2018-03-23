@@ -46,7 +46,7 @@ if (
   dnsDomainIs(host, "sabrinasterling.com") ||
   dnsDomainIs(host, "stopbullying.gov") ||
   dnsDomainIs(host, "kahoot.com") ||
-  dnsDomainIs(host, "jenny-add-6.com") ||
+  dnsDomainIs(host, "king5.com") ||
   dnsDomainIs(host, "jenny-add-7.com") ||
   dnsDomainIs(host, "jenny-add-8.com") ||
   dnsDomainIs(host, "jenny-add-9.com")
