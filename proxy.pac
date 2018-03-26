@@ -50,7 +50,7 @@ if (
   dnsDomainIs(host, "explorelearning.com") ||
   dnsDomainIs(host, "collections.mnhs.org") ||
   dnsDomainIs(host, "minnesotanationalguard.org")
-
+  dnsDomainIs(host, "virtuallabs.ket.org/physics")
 )
   return "DIRECT";
 
