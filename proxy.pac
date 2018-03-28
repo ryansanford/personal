@@ -51,7 +51,7 @@ if (
   dnsDomainIs(host, "collections.mnhs.org") ||
   dnsDomainIs(host, "minnesotanationalguard.org") ||
   dnsDomainIs(host, "ket.org") ||
-  dnsDomainIs(host, "jennyadd1.net") ||
+  dnsDomainIs(host, "factmonster.com") ||
   dnsDomainIs(host, "jennyadd2.net") ||
   dnsDomainIs(host, "jennyadd3.net") ||
   dnsDomainIs(host, "jennyadd4.net") ||
