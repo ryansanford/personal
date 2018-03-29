@@ -52,7 +52,7 @@ if (
   dnsDomainIs(host, "minnesotanationalguard.org") ||
   dnsDomainIs(host, "ket.org") ||
   dnsDomainIs(host, "factmonster.com") ||
-  dnsDomainIs(host, "jennyadd2.net") ||
+  dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "jennyadd3.net") ||
   dnsDomainIs(host, "jennyadd4.net") ||
   dnsDomainIs(host, "jennyadd5.net") ||
