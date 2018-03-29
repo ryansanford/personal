@@ -53,7 +53,7 @@ if (
   dnsDomainIs(host, "ket.org") ||
   dnsDomainIs(host, "factmonster.com") ||
   dnsDomainIs(host, "mathxlforschool.com") ||
-  dnsDomainIs(host, "jennyadd3.net") ||
+  dnsDomainIs(host, "login.pearsoncmg.com") ||
   dnsDomainIs(host, "jennyadd4.net") ||
   dnsDomainIs(host, "jennyadd5.net") ||
   dnsDomainIs(host, "jennyadd6.net") ||
