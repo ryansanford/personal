@@ -54,7 +54,7 @@ if (
   dnsDomainIs(host, "factmonster.com") ||
   dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "login.pearsoncmg.com") ||
-  dnsDomainIs(host, "jennyadd4.net") ||
+  dnsDomainIs(host, "letterwritingguide.com") ||
   dnsDomainIs(host, "jennyadd5.net") ||
   dnsDomainIs(host, "jennyadd6.net") ||
   dnsDomainIs(host, "jennyadd7.net")
