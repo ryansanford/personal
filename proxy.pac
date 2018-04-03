@@ -17,7 +17,7 @@ if (
   dnsDomainIs(host, "github.com") ||
   dnsDomainIs(host, "connexus.com") ||
   dnsDomainIs(host, "livelesson.com") ||
-  dnsDomainIs(host, "colorado.edu") ||
+  dnsDomainIs(host, "jennyadd5.net") ||
   dnsDomainIs(host, "brainpop.com") ||
   dnsDomainIs(host, "grammarly.com") ||
   dnsDomainIs(host, "khanacademy.org") ||
@@ -55,7 +55,7 @@ if (
   dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "login.pearsoncmg.com") ||
   dnsDomainIs(host, "letterwritingguide.com") ||
-  dnsDomainIs(host, "jennyadd5.net") ||
+  dnsDomainIs(host, "www.calvin.edu") ||
   dnsDomainIs(host, "jennyadd6.net") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
