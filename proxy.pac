@@ -58,6 +58,7 @@ if (
   dnsDomainIs(host, "www.calvin.edu") ||
   dnsDomainIs(host, "www.huntercourse.com") ||
   dnsDomainIs(host, "www2.huntercourse.com") ||
+  dnsDomainIs(host, "www.googleadservices.com") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
   return "DIRECT";
