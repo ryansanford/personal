@@ -56,7 +56,7 @@ if (
   dnsDomainIs(host, "login.pearsoncmg.com") ||
   dnsDomainIs(host, "letterwritingguide.com") ||
   dnsDomainIs(host, "www.calvin.edu") ||
-  dnsDomainIs(host, "www2.huntercourse.com") ||
+  dnsDomainIs(host, "www.huntercourse.com") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
   return "DIRECT";
