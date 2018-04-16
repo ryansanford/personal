@@ -58,7 +58,7 @@ if (
   dnsDomainIs(host, "www.calvin.edu") ||
   dnsDomainIs(host, "www.virtualnerd.com") ||
   dnsDomainIs(host, "www.sanfordsheepfarm.com") ||
-  dnsDomainIs(host, "jennyadd6.net") ||
+  dnsDomainIs(host, "mnlivestockbreeders.org") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
   return "DIRECT";
