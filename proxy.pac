@@ -59,6 +59,7 @@ if (
   dnsDomainIs(host, "www.virtualnerd.com") ||
   dnsDomainIs(host, "www.sanfordsheepfarm.com") ||
   dnsDomainIs(host, "mnlivestockbreeders.org") ||
+  dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
   return "DIRECT";
