@@ -57,7 +57,7 @@ if (
   dnsDomainIs(host, "letterwritingguide.com") ||
   dnsDomainIs(host, "www.calvin.edu") ||
   dnsDomainIs(host, "www.virtualnerd.com") ||
-  dnsDomainIs(host, "jennyadd5.net") ||
+  dnsDomainIs(host, "www.sanfordsheepfarm.com") ||
   dnsDomainIs(host, "jennyadd6.net") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
