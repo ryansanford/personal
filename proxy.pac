@@ -60,6 +60,12 @@ if (
   dnsDomainIs(host, "www.sanfordsheepfarm.com") ||
   dnsDomainIs(host, "mnlivestockbreeders.org") ||
   dnsDomainIs(host, "mathxlforschool.com") ||
+  dnsDomainIs(host, "boat-ed.com") ||
+  dnsDomainIs(host, "jennyadd2.net") ||
+  dnsDomainIs(host, "jennyadd3.net") ||
+  dnsDomainIs(host, "jennyadd4.net") ||
+  dnsDomainIs(host, "jennyadd5.net") ||
+  dnsDomainIs(host, "jennyadd6.net") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
   return "DIRECT";
