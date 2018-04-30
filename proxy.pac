@@ -64,7 +64,7 @@ if (
   dnsDomainIs(host, "cybersource.com") ||
   dnsDomainIs(host, "www.history.com") ||
   dnsDomainIs(host, "www.nationalww2museum.org") ||
-  dnsDomainIs(host, "jennyadd5.net") ||
+  dnsDomainIs(host, "mn.gov/mdhr/news-community/videos/history-videos/") ||
   dnsDomainIs(host, "jennyadd6.net") ||
   dnsDomainIs(host, "jennyadd7.net")
 )
