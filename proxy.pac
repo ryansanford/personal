@@ -62,7 +62,7 @@ if (
   dnsDomainIs(host, "mathxlforschool.com") ||
   dnsDomainIs(host, "boat-ed.com") ||
   dnsDomainIs(host, "cybersource.com") ||
-  dnsDomainIs(host, "www.history.com") ||
+  dnsDomainIs(host, "www.history.com") 
   dnsDomainIs(host, "www.nationalww2museum.org") ||
   dnsDomainIs(host, "mn.gov") ||
   dnsDomainIs(host, "jennyadd6.net") ||
